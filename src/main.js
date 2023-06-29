@@ -1,0 +1,1 @@
+console.log('API URL = https://ahababs.com/agaga?api_key=' + API_KEY)
